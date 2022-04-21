@@ -13,7 +13,12 @@
 public class TiposDatos {
     public static void main(String[]args) {
 
-        System.out.println("Hola Mundo");
+        // Fuertemente Tipado
+        String nombre = "xcheko51x";
+        int numero = 10;
+        boolean esReal = true;
+        float numeroDecimal = 50.0f;
+        double precio = 152.00;
 
         // CASTEO
         /* 
