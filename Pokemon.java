@@ -1,4 +1,4 @@
-class Pokemon {
+public class Pokemon {
 
     String nombre;
     String tipo;
@@ -10,8 +10,8 @@ class Pokemon {
 
     public void informacionPokemon() {
         System.out.println(
-            "El Pokemon: " + this.nombre + "\n" +
-            "es de tipo: " + this.tipo
+            "El Pokemon: "+this.nombre+"\n"+
+            "es de tipo: "+this.tipo+"\n"
         );
     }
 }

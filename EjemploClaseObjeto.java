@@ -1,9 +1,11 @@
 public class EjemploClaseObjeto {
     public static void main(String[] args) {
         
-        Pokemon pokemon = new Pokemon("Pikachu", "Electrico");
+        Pokemon charmander = new Pokemon("Charmander", "Fuego");
+        Pokemon squartle = new Pokemon("Squartle", "Agua");
 
-        pokemon.informacionPokemon();
-        
+        charmander.informacionPokemon();
+        squartle.informacionPokemon();
+
     }
 }
