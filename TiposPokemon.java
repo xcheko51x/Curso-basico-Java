@@ -1,4 +1,4 @@
-class Fuego extends Pokemon {
+/*class Fuego extends Pokemon {
 
     String fuerteContra;
     String debilContra;
@@ -59,4 +59,4 @@ class Hierva extends Pokemon {
             "Es debil contra: " + this.debilContra + "\n"
         );
     }
-}
+}*/
